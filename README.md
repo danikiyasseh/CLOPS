@@ -23,7 +23,7 @@ The datasets can be downloaded from the following links:
 
 ## Pre-processing
 
-In order to pre-process the datasets appropriately for CLOPS and the downstream supervised tasks, please refer to the following repository: https://github.com/danikiyasseh/loading-physiological-data
+In order to pre-process the datasets appropriately for CLOPS, please refer to the following repository: https://github.com/danikiyasseh/loading-physiological-data
 
 # Training
 
