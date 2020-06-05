@@ -2,7 +2,7 @@
 
 CLOPS is a replay-based continual learning strategy that employs both a buffer storage and acquisition mechanism. 
 
-This method is described in: "CLOPS: Continual Learning for Physiological Signals" (https://arxiv.org/abs/2004.09578)
+This method is described in: "CLOPS: Continual Learning for Physiological Signals"
 
 # Requirements
 
