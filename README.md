@@ -2,11 +2,11 @@
 
 CLOPS is a replay-based continual learning strategy that employs both a buffer storage and acquisition mechanism. 
 
-This method is described in: "CLOPS: Continual Learning for Physiological Signals"
+This method is described in [A clinical deep learning framework for continually learning from cardiac signals across diseases, time, modalities, and institutions](https://www.nature.com/articles/s41467-021-24483-0), published in Nature Communications 2021. 
 
 # Requirements
 
-The CLOCS code requires
+The CLOPS code requires
 
 * Python 3.6 or higher
 * PyTorch 1.0 or higher
