@@ -3,7 +3,7 @@
 CLOPS is a framework that allows neural networks to continually learn from clinical data streaming in over time. 
 
 This repository contains the PyTorch implementation of CLOPS. For details, see **A clinical deep learning framework for continually learning from cardiac signals across diseases, time, modalities, and institutions**.
-[[Nature Communications Paper](https://www.nature.com/articles/s41467-021-24483-0)], [[blogpost](https://danikiyasseh.github.io/blogs/CLOPS/)], 
+[[Nature Communications Paper](https://www.nature.com/articles/s41467-021-24483-0)], [[blogpost](https://danikiyasseh.github.io/blogs/CLOPS/)]
 
 ## Requirements
 
